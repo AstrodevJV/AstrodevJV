@@ -21,7 +21,7 @@
 
 #### 🖥️ Lenguajes de programación
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js" />
+  <img src="https://skillicons.dev/icons?i=java,cs" />
 </p>
 
 #### ⚙️ Frameworks y librerías
