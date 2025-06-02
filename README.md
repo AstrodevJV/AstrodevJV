@@ -7,16 +7,16 @@
 
 <br>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 
 <br><br>
 
 
 - 🎓 Soy estudiante universitario con interés en el desarrollo backend.
 - 🚀 Enfocado en **APIs RESTful** con `Spring Boot`, `PostgreSQL`.
-- 💻 Explorando el **desarrollo frontend** con `Kotlin` y `Androit Studio`.
+- 💻 Explorando el **desarrollo Back-end** con `C#` y `.net`.
 - 📩 Puedes contactarme en [![Enviar Email](https://img.shields.io/static/v1?label=email&message=soalejandro@protonmail.com.com&color=EA4335&style=flat-square)](mailto:soalejandro@protonmail.com).
 
 #### 🖥️ Lenguajes de programación
@@ -26,15 +26,15 @@
 
 #### ⚙️ Frameworks y librerías
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=spring,dotnet" />
 </p>
 
 #### 🛢️ Bases de datos
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
 </p>
 
 #### 🛠️ Herramientas y DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,aws,docker,kubernetes,postman,webstorm,idea" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,kafka,idea,visualstudio,supabase" />
 </p>
