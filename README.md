@@ -17,7 +17,6 @@
 - 🎓 Soy estudiante universitario con interés en el desarrollo backend.
 - 🚀 Enfocado en **APIs RESTful** con `Spring Boot`, `PostgreSQL`.
 - 💻 Explorando el **desarrollo frontend** con `Kotlin` y `Androit Studio`.
-- ⚡ Me apasiona la tecnología y mejorar mi bicicleta para rutas de montaña 🚴‍♂️.
 - 📩 Puedes contactarme en [![Enviar Email](https://img.shields.io/static/v1?label=email&message=soalejandro@protonmail.com.com&color=EA4335&style=flat-square)](mailto:soalejandro@protonmail.com).
 
 #### 🖥️ Lenguajes de programación
